@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\bin\Debug\net8.0\TrafficLightSimulation.exe
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\bin\Debug\net8.0\TrafficLightSimulation.deps.json
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\bin\Debug\net8.0\TrafficLightSimulation.runtimeconfig.json
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\bin\Debug\net8.0\TrafficLightSimulation.dll
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\bin\Debug\net8.0\TrafficLightSimulation.pdb
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.AssemblyInfo.cs
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.dll
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\refint\TrafficLightSimulation.dll
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.pdb
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\TrafficLightSimulation.genruntimeconfig.cache
+C:\Users\User\source\repos\TrafficLightSimulation\TrafficLightSimulation\obj\Debug\net8.0\ref\TrafficLightSimulation.dll
